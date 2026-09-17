@@ -46,7 +46,7 @@ Streaming terabytes of uncompressed sensory data through traversable wormholes r
 angle < 0$), violating the **Average Weak Energy Condition (ANEC)** on a macroscopic scale, leading to immediate quantum decoherence and wormhole collapse (**Maldacena-Jafferis-Wall limit**).
 
 **ARINA-Q** circumvents this via **Algorithmic Information Minimization**:
-* **Mechanism:** Microscopic proхідні (traversable) wormholes are stabilized by an external quantum coupling operator $H_{\text{int}}(t) = O_L(t)O_R(t)$, generating a calculated flash of negative Casimir energy density ($\langle T_{kk} 
+* **Mechanism:** Microscopic прoхідні (traversable) wormholes are stabilized by an external quantum coupling operator $H_{\text{int}}(t) = O_L(t)O_R(t)$, generating a calculated flash of negative Casimir energy density ($\langle T_{kk} 
 angle < 0$) inside the tunnel.
 * **Data Budget:** The channel transmits **only** sub-kilobyte **Q-Packets of Intent** (collapsed quantum states representing decisions, motor impulses, and core neural updates).
 * **Local Rendering:** The heavy "graphics engine" of physical reality—such as 4K video streams, ambient sounds, and complex local spatial telemetry—is generated and rendered *locally* by the node's native AI system using the blueprints previously received via `ARINA-G`. 
@@ -71,6 +71,10 @@ ARINA is currently an open-source, first-principles theoretical framework. We in
 * Quantum Error Correction algorithms tailored for high-dimensional Hilbert spaces.
 * Optimization models for local AI rendering based on minimal Q-Packet updates.
 * Engineering schematics for low-mass EPR-Modems capable of maintaining micro-black hole stability.
+
+---
+Developed with 💙💛 in Ukraine. Glory to Ukraine!
+
 
 ---
 *Disclaimer: This repository outlines a conceptual framework based on advanced interpretations of General Relativity, Quantum Field Theory, and the Holographic Principle. Implementation requires Type-II civilization infrastructure.*
