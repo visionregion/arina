@@ -1,5 +1,7 @@
 # ARINA: Advanced Relativistic Information Network Architecture
 
+**🌐 Language:** **English** | [Українська](README.uk.md)
+
 An open-source blueprint for a hybrid, 2-component interstellar communication mesh designed to bypass the thermodynamic and quantum limits of macroscopic wormholes while strictly respecting the universal speed of light limit ($c$) and protecting causality.
 
 ---
@@ -42,12 +44,10 @@ Electromagnetic waves are highly susceptible to scattering, attenuation, and dis
 * **Velocity:** Propagation is bounded locally by $v = c$. This serves as the asynchronous structural seeding mechanism for the network.
 
 ### 2.2. ARINA-Q: The Real-Time Synchronous Mesh
-Streaming terabytes of uncompressed sensory data through traversable wormholes requires massive negative energy densities ($\langle T_{00} 
-angle < 0$), violating the **Average Weak Energy Condition (ANEC)** on a macroscopic scale, leading to immediate quantum decoherence and wormhole collapse (**Maldacena-Jafferis-Wall limit**).
+Streaming terabytes of uncompressed sensory data through traversable wormholes requires massive negative energy densities ($\langle T_{00} \rangle < 0$), violating the **Average Weak Energy Condition (ANEC)** on a macroscopic scale, leading to immediate quantum decoherence and wormhole collapse (**Maldacena-Jafferis-Wall limit**).
 
 **ARINA-Q** circumvents this via **Algorithmic Information Minimization**:
-* **Mechanism:** Microscopic прoхідні (traversable) wormholes are stabilized by an external quantum coupling operator $H_{\text{int}}(t) = O_L(t)O_R(t)$, generating a calculated flash of negative Casimir energy density ($\langle T_{kk} 
-angle < 0$) inside the tunnel.
+* **Mechanism:** Microscopic traversable wormholes are stabilized by an external quantum coupling operator $H_{\text{int}}(t) = O_L(t)O_R(t)$, generating a calculated flash of negative Casimir energy density ($\langle T_{kk} \rangle < 0$) inside the tunnel.
 * **Data Budget:** The channel transmits **only** sub-kilobyte **Q-Packets of Intent** (collapsed quantum states representing decisions, motor impulses, and core neural updates).
 * **Local Rendering:** The heavy "graphics engine" of physical reality—such as 4K video streams, ambient sounds, and complex local spatial telemetry—is generated and rendered *locally* by the node's native AI system using the blueprints previously received via `ARINA-G`. 
 
