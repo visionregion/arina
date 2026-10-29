@@ -44,7 +44,7 @@ Electromagnetic waves are highly susceptible to scattering, attenuation, and dis
 * **Velocity:** Propagation is bounded locally by $v = c$. This serves as the asynchronous structural seeding mechanism for the network.
 
 ### 2.2. ARINA-Q: The Real-Time Synchronous Mesh
-Streaming terabytes of uncompressed sensory data through traversable wormholes requires massive negative energy densities ($\langle T_{00} \rangle < 0$), violating the **Average Weak Energy Condition (ANEC)** on a macroscopic scale, leading to immediate quantum decoherence and wormhole collapse (**Maldacena-Jafferis-Wall limit**).
+Streaming terabytes of uncompressed sensory data through traversable wormholes requires massive negative energy densities ($\langle T_{00} \rangle < 0$), violating the **Averaged Null Energy Condition (ANEC)** on a macroscopic scale, leading to immediate quantum decoherence and wormhole collapse (**Gao-Jafferis-Wall limit**).
 
 **ARINA-Q** circumvents this via **Algorithmic Information Minimization**:
 * **Mechanism:** Microscopic traversable wormholes are stabilized by an external quantum coupling operator $H_{\text{int}}(t) = O_L(t)O_R(t)$, generating a calculated flash of negative Casimir energy density ($\langle T_{kk} \rangle < 0$) inside the tunnel.
